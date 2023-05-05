@@ -1,0 +1,14 @@
+header{
+    margin: 10px;
+    align-items: center;
+    background-color: coral;
+    padding: 20px;
+    border-radius: 20px;
+}
+.navLink{
+    color:yellowgreen;
+    padding: 10px;
+    padding-inline: 30px;
+    text-decoration: none;
+    border-radius: 20px;
+}
